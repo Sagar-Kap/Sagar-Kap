@@ -9,7 +9,7 @@ I started programming to automate collection of data for my marketing projects. 
 
 - [Sagar Kapoor](https://www.sagarkapoor.eu/) - My personal blog, to enumerate my struggle, and point out solutions to problems that newbies like me often come across. 
 - [The Indian Economist](https://www.indianeconomist.in/) - My blog related to my Masters and my Bachelor's education. It mostly focuses on ingenious ways to get your online marketing done right.
-  - These above sites have been made with <p style= "color : pink;"><strong>Hugo</strong></p>
+  - These above sites have been made with the static site generator [Hugo](https://gohugo.io/). 
 - [The Indian Law](https://theindianlaw.in/) - A joint endeavour with my friend to bring forth information about legal subjects in India. A site made with [wordpress](https://wordpress.org/). 
 
 #### 💬 Feedback
@@ -24,5 +24,5 @@ If you read my blogs and want to critique or reach out to me with a suggestion, 
 - Twitter : https://twitter.com/SagarKapr
 
 <hr>
-👨‍🏫 [This dude](https://github.com/Jarmos-san/), Jarmos-san has been the reason that I am on GitHub, pure gold😇.
+👨‍🏫 [This dude](https://github.com/Jarmos-san/), @Jarmos-san has been the reason that I am on GitHub, pure gold😇.
 <hr>
