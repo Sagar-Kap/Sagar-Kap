@@ -1,5 +1,5 @@
 
-### Hello there
+### Hello there 👋
 
 I am [Sagar Kapoor](https://www.linkedin.com/in/sagarkapr/) and my online alias is [Trainee Ninja](https://github.com/Trainee-Ninja). I am completing my Master's education from the University of Sheffield in the subject of Digital Marketing and Social Media, having completed my Economics Honors from India. 
 
