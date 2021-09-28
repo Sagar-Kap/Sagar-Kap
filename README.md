@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**Trainee-Ninja/Trainee-Ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am [Sagar Kapoor](https://www.linkedin.com/in/sagarkapr/) and my online alias is [Trainee Ninja](https://github.com/Trainee-Ninja). I am completing my Master's education from the University of Sheffield in the subject of Digital Marketing and Social Media, having completed my Economics Honors from India. 
 
-Here are some ideas to get you started:
+I started programming to automate collection of data for my marketing projects. And now I am falling into a deep pit of coding languages. Here is a window into my descent:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👷 The projects that I am working on:
+
+- [Sagar Kapoor](https://www.sagarkapoor.eu/) - My personal blog, to enumerate my struggle, and point out solutions to problems that newbies like me often come across. 
+- [The Indian Economist](https://www.indianeconomist.in/) - My blog related to my Masters and my Bachelor's education. It mostly focuses on ingenious ways to get your online marketing done right. 
+- [The Indian Law](https://theindianlaw.in/) - A joint endeavour with my friend to bring forth information about legal subjects in India. A site made with [wordpress](https://wordpress.org/). 
+
+#### 💬 Feedback
+
+If you read my blogs and want to critique or reach out to me with a suggestion, then feel free to! 
+
+#### 📫 Reach me at
+
+- LinkedIn : https://www.linkedin.com/in/sagarkapr/
+- Programming Blog: https://www.sagarkapoor.eu/
+- Marketing Blog: https://www.indianeconomist.in/
+- Twitter : https://twitter.com/SagarKapr
+
+[^] 👨‍🏫 [This dude](https://github.com/Jarmos-san/) has been the reason that I am on GitHub, pure gold😇.
