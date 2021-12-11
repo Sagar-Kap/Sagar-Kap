@@ -5,6 +5,8 @@ I am [Sagar Kapoor](https://www.linkedin.com/in/sagarkapr/), completing my Maste
 
 I started programming to automate collection of data for my marketing projects. And now I am falling into a deep pit of coding languages. Here is a window into my descent:
 
+![My moto](moto.gif)
+
 #### 👷 The projects that I am working on:
 
 - [Sagar Kapoor](https://www.sagarkapoor.eu/) - My personal blog, to share my struggles and point out solutions to problems that newbies like me often come across. 
