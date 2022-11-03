@@ -7,11 +7,6 @@
 - [Sagar-Kap/php-react-front-end](https://github.com/Sagar-Kap/php-react-front-end) - Front end repo for a full stack project  (1 month ago)
 - [Sagar-Kap/php-react-back-end](https://github.com/Sagar-Kap/php-react-back-end) - Back End for a full stack project (1 month ago)
 - [Sagar-Kap/php-feedback-app](https://github.com/Sagar-Kap/php-feedback-app) - A full stack app created with PHP, Bootstrap and MySQL (1 month ago)
-- [Sagar-Kap/Hulu-Database](https://github.com/Sagar-Kap/Hulu-Database) - Project built with Next.js and Tailwind. (3 months ago)
-- [Sagar-Kap/catApp](https://github.com/Sagar-Kap/catApp) - A short and sweet Next JS app. (3 months ago)
-- [Sagar-Kap/Task-Tracker](https://github.com/Sagar-Kap/Task-Tracker) - Task Tracker app created with React JS (4 months ago)
-- [Sagar-Kap/Python-Scraper](https://github.com/Sagar-Kap/Python-Scraper) - Scraper for Price  (4 months ago)
-- [Sagar-Kap/restaurant-page](https://github.com/Sagar-Kap/restaurant-page) - Restaurant Page for The Odin Project (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,14 +15,6 @@
 - [Sagar-Kap/php-react-back-end](https://github.com/Sagar-Kap/php-react-back-end) - Back End for a full stack project
 - [Sagar-Kap/php-react-front-end](https://github.com/Sagar-Kap/php-react-front-end) - Front end repo for a full stack project 
 - [Sagar-Kap/php-feedback-app](https://github.com/Sagar-Kap/php-feedback-app) - A full stack app created with PHP, Bootstrap and MySQL
-- [Sagar-Kap/Hulu-Database](https://github.com/Sagar-Kap/Hulu-Database) - Project built with Next.js and Tailwind.
-- [Sagar-Kap/catApp](https://github.com/Sagar-Kap/catApp) - A short and sweet Next JS app.
-- [Sagar-Kap/Task-Tracker](https://github.com/Sagar-Kap/Task-Tracker) - Task Tracker app created with React JS
-- [Sagar-Kap/Python-Scraper](https://github.com/Sagar-Kap/Python-Scraper) - Scraper for Price 
-- [Sagar-Kap/restaurant-page](https://github.com/Sagar-Kap/restaurant-page) - Restaurant Page for The Odin Project
-
-
-#### 🔭 Latest releases I've contributed to
 
 
 #### 🔨 My recent Pull Requests
@@ -46,30 +33,12 @@
 - [Hello there!](https://www.sagarkapoor.eu/about/) (a long while ago)
 
 
-#### ⭐ Recent Stars
-
-- [theishanbh/portfoliowithsagar](https://github.com/theishanbh/portfoliowithsagar) -  (3 months ago)
-- [Sagar-Kap/remington.in](https://github.com/Sagar-Kap/remington.in) - Remington for India: http://remington.in/ (4 months ago)
-- [Sagar-Kap/chatpatka](https://github.com/Sagar-Kap/chatpatka) - A website for wholesome human being stuff (4 months ago)
-- [Sagar-Kap/SagarKapoor.EU](https://github.com/Sagar-Kap/SagarKapoor.EU) - Personal Site made with Hugo (4 months ago)
-- [Sagar-Kap/IndianEconomist.IN](https://github.com/Sagar-Kap/IndianEconomist.IN) -  (4 months ago)
-- [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request &amp; Response Service, written in Python &#43; Flask. (6 months ago)
-- [Kay9Unit/Wyrmroost](https://github.com/Kay9Unit/Wyrmroost) - Github Repostory for the Wyrmroost Minecraft Mod. (11 months ago)
-
-
-#### 👯 Check out some of my recent followers
-
-- [theishanbh](https://github.com/theishanbh)
-- [mohammadaminvalinezhad](https://github.com/mohammadaminvalinezhad)
-- [rc-chuah](https://github.com/rc-chuah)
-- [22388o](https://github.com/22388o)
-
 #### 💬 Feedback
 
-Say Hello, I don't bite!
+If you used one of my projects and/or read one my articles & found it useful, I would love to hear some feedback from you. Let me know if you want a feature or two implemented. Are there some specific topics you would like me to write about? Shoot me a DM & I'll figure something out.
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Twitter: https://twitter.com/SagarKapr
+- Blog: https://www.sagarkapoor.eu/
+- LinkedIn: https://www.linkedin.com/in/sagarkapr/
