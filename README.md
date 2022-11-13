@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (today)
-- [Sagar-Kap/php-react-app](https://github.com/Sagar-Kap/php-react-app) - This is an app that gets input from users and then saves them on the home page. (4 weeks ago)
+- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (1 day ago)
+- [Sagar-Kap/php-react-app](https://github.com/Sagar-Kap/php-react-app) - This is an app that gets input from users and then saves them on the home page. (1 month ago)
 - [Sagar-Kap/php-react-front-end](https://github.com/Sagar-Kap/php-react-front-end) - Front end repo for a full stack project  (1 month ago)
 - [Sagar-Kap/php-react-back-end](https://github.com/Sagar-Kap/php-react-back-end) - Back End for a full stack project (1 month ago)
 - [Sagar-Kap/php-feedback-app](https://github.com/Sagar-Kap/php-feedback-app) - A full stack app created with PHP, Bootstrap and MySQL (2 months ago)
@@ -27,7 +27,7 @@
 
 #### 📜 My recent blog posts
 
-- [Running Ubuntu Headless on Pi4 from USB](https://www.sagarkapoor.eu/raspberry-pi4-headless-ubuntu-from-usb/) (11 months ago)
+- [Running Ubuntu Headless on Pi4 from USB](https://www.sagarkapoor.eu/raspberry-pi4-headless-ubuntu-from-usb/) (1 year ago)
 - [Getting Started With Git](https://www.sagarkapoor.eu/getting-started-with-git/) (1 year ago)
 - [How to Scrape a site with Python](https://www.sagarkapoor.eu/how-to-scrape-with-python/) (1 year ago)
 - [Hello there!](https://www.sagarkapoor.eu/about/) (a long while ago)
