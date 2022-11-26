@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (today)
 - [Sagar-Kap/node-server-phonebook](https://github.com/Sagar-Kap/node-server-phonebook) - Node JS back end for the Phonebook exercise in Part2 of FSO. (1 day ago)
 - [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (1 day ago)
 - [Sagar-Kap/php-react-app](https://github.com/Sagar-Kap/php-react-app) - This is an app that gets input from users and then saves them on the home page. (4 days ago)
 - [Sagar-Kap/SagarKapoor.EU](https://github.com/Sagar-Kap/SagarKapoor.EU) - Personal Site made with Hugo (1 week ago)
-- [Sagar-Kap/php-react-front-end](https://github.com/Sagar-Kap/php-react-front-end) - Front end repo for a full stack project  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode.
 - [Sagar-Kap/node-server-phonebook](https://github.com/Sagar-Kap/node-server-phonebook) - Node JS back end for the Phonebook exercise in Part2 of FSO.
 - [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki 
 - [Sagar-Kap/php-react-app](https://github.com/Sagar-Kap/php-react-app) - This is an app that gets input from users and then saves them on the home page.
 - [Sagar-Kap/php-react-back-end](https://github.com/Sagar-Kap/php-react-back-end) - Back End for a full stack project
-- [Sagar-Kap/php-react-front-end](https://github.com/Sagar-Kap/php-react-front-end) - Front end repo for a full stack project 
 
 
 #### 🔨 My recent Pull Requests
