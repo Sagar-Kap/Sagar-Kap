@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/node-server-phonebook](https://github.com/Sagar-Kap/node-server-phonebook) - Node JS back end for the Phonebook exercise in Part2 of FSO. (2 days ago)
-- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (2 days ago)
-- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (4 days ago)
+- [Sagar-Kap/node-server-phonebook](https://github.com/Sagar-Kap/node-server-phonebook) - Node JS back end for the Phonebook exercise in Part2 of FSO. (3 days ago)
+- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (3 days ago)
+- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (5 days ago)
 - [Sagar-Kap/php-react-app](https://github.com/Sagar-Kap/php-react-app) - This is an app that gets input from users and then saves them on the home page. (1 week ago)
 - [Sagar-Kap/SagarKapoor.EU](https://github.com/Sagar-Kap/SagarKapoor.EU) - Personal Site made with Hugo (2 weeks ago)
 
@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Statically link added for Revisiting RSP lesson](https://github.com/TheOdinProject/curriculum/pull/23294) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (10 months ago)
-- [Image inserted for revisiting rock-paper-scissors lesson](https://github.com/TheOdinProject/curriculum/pull/23293) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (10 months ago)
-- [Inserted image in revisiting_rock_papers_scissors.md ](https://github.com/TheOdinProject/curriculum/pull/23290) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (10 months ago)
+- [Statically link added for Revisiting RSP lesson](https://github.com/TheOdinProject/curriculum/pull/23294) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (11 months ago)
+- [Image inserted for revisiting rock-paper-scissors lesson](https://github.com/TheOdinProject/curriculum/pull/23293) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (11 months ago)
+- [Inserted image in revisiting_rock_papers_scissors.md ](https://github.com/TheOdinProject/curriculum/pull/23290) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (11 months ago)
 - [📝 Terminal Screenshot added](https://github.com/Jarmos-san/dotfiles/pull/1) on [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) (1 year ago)
 - [🔧 README broken link fix](https://github.com/Jarmos-san/hugo-blog/pull/146) on [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) (1 year ago)
 
