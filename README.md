@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/node-server-phonebook](https://github.com/Sagar-Kap/node-server-phonebook) - Node JS back end for the Phonebook exercise in Part2 of FSO. (3 days ago)
-- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (3 days ago)
-- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (5 days ago)
-- [Sagar-Kap/php-react-app](https://github.com/Sagar-Kap/php-react-app) - This is an app that gets input from users and then saves them on the home page. (1 week ago)
+- [Sagar-Kap/node-server-phonebook](https://github.com/Sagar-Kap/node-server-phonebook) - Node JS back end for the Phonebook exercise in Part2 of FSO. (4 days ago)
+- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (4 days ago)
+- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (6 days ago)
+- [Sagar-Kap/php-react-app](https://github.com/Sagar-Kap/php-react-app) - This is an app that gets input from users and then saves them on the home page. (2 weeks ago)
 - [Sagar-Kap/SagarKapoor.EU](https://github.com/Sagar-Kap/SagarKapoor.EU) - Personal Site made with Hugo (2 weeks ago)
 
 #### 🌱 My latest projects
