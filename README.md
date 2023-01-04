@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/blogs-list](https://github.com/Sagar-Kap/blogs-list) - Blogs list created for FSO Part 4 (today)
-- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (today)
+- [Sagar-Kap/blogs-list](https://github.com/Sagar-Kap/blogs-list) - Blogs list created for FSO Part 4 (1 day ago)
+- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (1 day ago)
 - [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (2 weeks ago)
 - [Sagar-Kap/SagarKapoor.EU](https://github.com/Sagar-Kap/SagarKapoor.EU) - Personal Site made with Hugo (3 weeks ago)
 - [Sagar-Kap/node-server-phonebook](https://github.com/Sagar-Kap/node-server-phonebook) - Node JS back end for the Phonebook exercise in Part2 of FSO. (1 month ago)
@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Statically link added for Revisiting RSP lesson](https://github.com/TheOdinProject/curriculum/pull/23294) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (11 months ago)
-- [Image inserted for revisiting rock-paper-scissors lesson](https://github.com/TheOdinProject/curriculum/pull/23293) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (11 months ago)
-- [Inserted image in revisiting_rock_papers_scissors.md ](https://github.com/TheOdinProject/curriculum/pull/23290) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (11 months ago)
+- [Statically link added for Revisiting RSP lesson](https://github.com/TheOdinProject/curriculum/pull/23294) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (1 year ago)
+- [Image inserted for revisiting rock-paper-scissors lesson](https://github.com/TheOdinProject/curriculum/pull/23293) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (1 year ago)
+- [Inserted image in revisiting_rock_papers_scissors.md ](https://github.com/TheOdinProject/curriculum/pull/23290) on [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) (1 year ago)
 - [📝 Terminal Screenshot added](https://github.com/Jarmos-san/dotfiles/pull/1) on [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) (1 year ago)
 - [🔧 README broken link fix](https://github.com/Jarmos-san/hugo-blog/pull/146) on [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) (1 year ago)
 
