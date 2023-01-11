@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/SagarKapoor.EU](https://github.com/Sagar-Kap/SagarKapoor.EU) - Personal Site made with Hugo (6 days ago)
-- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (6 days ago)
+- [Sagar-Kap/SagarKapoor.EU](https://github.com/Sagar-Kap/SagarKapoor.EU) - Personal Site made with Hugo (1 week ago)
+- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (1 week ago)
 - [Sagar-Kap/blogs-list](https://github.com/Sagar-Kap/blogs-list) - Blogs list created for FSO Part 4 (1 week ago)
 - [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (3 weeks ago)
 - [Sagar-Kap/node-server-phonebook](https://github.com/Sagar-Kap/node-server-phonebook) - Node JS back end for the Phonebook exercise in Part2 of FSO. (1 month ago)
