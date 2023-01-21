@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/php-react-app](https://github.com/Sagar-Kap/php-react-app) - This is an app that gets input from users and then saves them on the home page. (today)
-- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (1 day ago)
-- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (1 day ago)
+- [Sagar-Kap/php-react-app](https://github.com/Sagar-Kap/php-react-app) - This is an app that gets input from users and then saves them on the home page. (1 day ago)
+- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (2 days ago)
+- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (2 days ago)
 - [Sagar-Kap/SagarKapoor.EU](https://github.com/Sagar-Kap/SagarKapoor.EU) - Personal Site made with Hugo (2 weeks ago)
 - [Sagar-Kap/blogs-list](https://github.com/Sagar-Kap/blogs-list) - Blogs list created for FSO Part 4 (2 weeks ago)
 
