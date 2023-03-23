@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Sagar-Kap/PiUbuntu](https://github.com/Sagar-Kap/PiUbuntu) - Pi Stuff (today)
-- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (1 day ago)
+- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (today)
 - [Sagar-Kap/frontend-photography](https://github.com/Sagar-Kap/frontend-photography) - A front end website for a photography shop. (1 week ago)
 - [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (2 weeks ago)
 - [Sagar-Kap/php-react-app](https://github.com/Sagar-Kap/php-react-app) - This is an app that gets input from users and then saves them on the home page. (2 months ago)
