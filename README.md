@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (today)
-- [Sagar-Kap/PiUbuntu](https://github.com/Sagar-Kap/PiUbuntu) - Pi Stuff (today)
-- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (3 days ago)
+- [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (1 day ago)
+- [Sagar-Kap/PiUbuntu](https://github.com/Sagar-Kap/PiUbuntu) - Pi Stuff (1 day ago)
+- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (4 days ago)
 - [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) -  (1 week ago)
 - [Sagar-Kap/frontend-photography](https://github.com/Sagar-Kap/frontend-photography) - A front end website for a photography shop. (2 weeks ago)
 
