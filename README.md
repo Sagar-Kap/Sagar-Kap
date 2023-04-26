@@ -6,7 +6,7 @@
 - [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) -  (3 weeks ago)
 - [Sagar-Kap/PiUbuntu](https://github.com/Sagar-Kap/PiUbuntu) - Pi Stuff (3 weeks ago)
 - [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (3 weeks ago)
-- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (4 weeks ago)
+- [Sagar-Kap/LeetCode](https://github.com/Sagar-Kap/LeetCode) - Solution repository for problems solved on LeetCode. (1 month ago)
 
 
 #### 📜 My recent blog posts
