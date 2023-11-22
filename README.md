@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (1 day ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (2 days ago)
 - [Sagar-Kap/frontend-photography](https://github.com/Sagar-Kap/frontend-photography) - A front end website for a photography shop. (7 months ago)
 - [Sagar-Kap/FullStackOpen](https://github.com/Sagar-Kap/FullStackOpen) - Full Stack Open Course taught at the University of Helsinki  (7 months ago)
 - [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) -  (7 months ago)
