@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on Astro (1 day ago)
-- [Sagar-Kap/frontend-photography](https://github.com/Sagar-Kap/frontend-photography) - A front end website for a photography shop. (1 day ago)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on Astro (2 days ago)
+- [Sagar-Kap/frontend-photography](https://github.com/Sagar-Kap/frontend-photography) - A front end website for a photography shop. (2 days ago)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (1 month ago)
 - [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability! (3 months ago)
 - [Sagar-Kap/PiUbuntu](https://github.com/Sagar-Kap/PiUbuntu) - Pi Stuff (11 months ago)
