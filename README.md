@@ -5,7 +5,7 @@
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (2 months ago)
 - [Sagar-Kap/frontend-photography](https://github.com/Sagar-Kap/frontend-photography) - A front end website for a photography shop. (3 months ago)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (7 months ago)
-- [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability! (9 months ago)
+- [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability! (10 months ago)
 
 
 #### 📜 My recent blog posts
