@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (5 days ago)
-- [Weburz/repoforge](https://github.com/Weburz/repoforge) - A CLI tool to scaffold project repositories from prebuilt templates (6 days ago)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (3 weeks ago)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (6 days ago)
+- [Weburz/repoforge](https://github.com/Weburz/repoforge) - A CLI tool to scaffold project repositories from prebuilt templates (1 week ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (4 weeks ago)
 - [Weburz/project-starters](https://github.com/Weburz/project-starters) - The repository contain templates for generating various types of projects for our clients at Weburz (4 weeks ago)
 - [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners. (1 month ago)
 
