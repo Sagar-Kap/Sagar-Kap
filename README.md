@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (today)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (today)
 - [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (today)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (today)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (2 months ago)
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (3 months ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (3 months ago)
 
 
