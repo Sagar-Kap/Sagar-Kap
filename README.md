@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (today)
+- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (1 day ago)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (2 months ago)
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (2 months ago)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (3 months ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (3 months ago)
 - [Weburz/project-starters](https://github.com/Weburz/project-starters) - The repository contain templates for generating various types of projects for our clients at Weburz (3 months ago)
 
