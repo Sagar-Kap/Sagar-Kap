@@ -4,9 +4,9 @@
 
 - [Specolution/ratata](https://github.com/Specolution/ratata) - This is a game built with SDL3 and C&#43;&#43;. (3 days ago)
 - [Sagar-Kap/frontend-photography](https://github.com/Sagar-Kap/frontend-photography) - A front end website for a photography shop. (5 months ago)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (6 months ago)
 - [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (6 months ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (6 months ago)
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (6 months ago)
 
 
 #### 📜 My recent blog posts
