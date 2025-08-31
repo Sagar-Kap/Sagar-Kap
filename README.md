@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [DevHaver/.github](https://github.com/DevHaver/.github) - The repository of the public landing page of the DevHaver GitHub organization (today)
+- [DevHaver/readtes](https://github.com/DevHaver/readtes) - Read the TES (today)
+- [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (today)
 - [Specolution/ratata](https://github.com/Specolution/ratata) - This is a game built with SDL3 and C&#43;&#43;. (3 days ago)
 - [Sagar-Kap/frontend-photography](https://github.com/Sagar-Kap/frontend-photography) - A front end website for a photography shop. (5 months ago)
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (6 months ago)
-- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (6 months ago)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (6 months ago)
 
 
 #### 📜 My recent blog posts
