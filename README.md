@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (2 days ago)
-- [DevHaver/readtes](https://github.com/DevHaver/readtes) - Read the TES (2 days ago)
-- [DevHaver/.github](https://github.com/DevHaver/.github) - The repository of the public landing page of the DevHaver GitHub organization (2 days ago)
-- [Specolution/.github](https://github.com/Specolution/.github) -  (2 days ago)
-- [Specolution/ratata](https://github.com/Specolution/ratata) - This is a game built with SDL3 and C&#43;&#43;. (5 days ago)
+- [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (3 days ago)
+- [DevHaver/readtes](https://github.com/DevHaver/readtes) - Read the TES (3 days ago)
+- [DevHaver/.github](https://github.com/DevHaver/.github) - The repository of the public landing page of the DevHaver GitHub organization (3 days ago)
+- [Specolution/.github](https://github.com/Specolution/.github) -  (3 days ago)
+- [Specolution/ratata](https://github.com/Specolution/ratata) - This is a game built with SDL3 and C&#43;&#43;. (6 days ago)
 
 
 #### 📜 My recent blog posts
