@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (today)
 - [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (4 days ago)
-- [DevHaver/readtes](https://github.com/DevHaver/readtes) - Read the TES (4 days ago)
 - [DevHaver/.github](https://github.com/DevHaver/.github) - The repository of the public landing page of the DevHaver GitHub organization (4 days ago)
+- [DevHaver/readtes](https://github.com/DevHaver/readtes) - Read the TES (4 days ago)
 - [Specolution/.github](https://github.com/Specolution/.github) -  (4 days ago)
-- [Specolution/ratata](https://github.com/Specolution/ratata) - This is a game built with SDL3 and C&#43;&#43;. (1 week ago)
 
 
 #### 📜 My recent blog posts
