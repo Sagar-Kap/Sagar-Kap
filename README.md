@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (1 day ago)
-- [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (5 days ago)
-- [DevHaver/.github](https://github.com/DevHaver/.github) - The repository of the public landing page of the DevHaver GitHub organization (5 days ago)
-- [DevHaver/readtes](https://github.com/DevHaver/readtes) - Read the TES (5 days ago)
-- [Specolution/.github](https://github.com/Specolution/.github) -  (5 days ago)
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (2 days ago)
+- [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (6 days ago)
+- [DevHaver/.github](https://github.com/DevHaver/.github) - The repository of the public landing page of the DevHaver GitHub organization (6 days ago)
+- [DevHaver/readtes](https://github.com/DevHaver/readtes) - Read the TES (6 days ago)
+- [Specolution/.github](https://github.com/Specolution/.github) -  (6 days ago)
 
 
 #### 📜 My recent blog posts
