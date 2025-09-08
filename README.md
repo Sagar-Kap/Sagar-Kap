@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (4 days ago)
-- [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (1 week ago)
-- [DevHaver/.github](https://github.com/DevHaver/.github) - The repository of the public landing page of the DevHaver GitHub organization (1 week ago)
-- [DevHaver/readtes](https://github.com/DevHaver/readtes) - Read the TES (1 week ago)
 - [Specolution/.github](https://github.com/Specolution/.github) -  (1 week ago)
+- [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (1 week ago)
+- [DevHaver/readtes](https://github.com/DevHaver/readtes) - Read the TES (1 week ago)
+- [DevHaver/.github](https://github.com/DevHaver/.github) - The repository of the public landing page of the DevHaver GitHub organization (1 week ago)
 
 
 #### 📜 My recent blog posts
