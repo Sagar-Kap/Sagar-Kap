@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (2 days ago)
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (today)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (4 days ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (4 days ago)
-- [DevHaver/.github](https://github.com/DevHaver/.github) - The repository of the public landing page of the DevHaver GitHub organization (2 weeks ago)
-- [Specolution/.github](https://github.com/Specolution/.github) -  (2 weeks ago)
+- [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (2 weeks ago)
+- [DevHaver/readtes](https://github.com/DevHaver/readtes) - Read the TES (2 weeks ago)
 
 
 #### 📜 My recent blog posts
