@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (today)
-- [DevHaver/kabbalahindia.com](https://github.com/DevHaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (today)
-- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (5 days ago)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (5 days ago)
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (1 day ago)
+- [DevHaver/kabbalahindia.com](https://github.com/DevHaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (1 day ago)
+- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (6 days ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (6 days ago)
 - [DevHaver/.github](https://github.com/DevHaver/.github) - The repository of the public landing page of the DevHaver GitHub organization (2 weeks ago)
 
 
