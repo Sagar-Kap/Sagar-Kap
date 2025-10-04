@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (5 days ago)
-- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (6 days ago)
-- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (6 days ago)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (6 days ago)
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (6 days ago)
+- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 week ago)
+- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (1 week ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 week ago)
 - [DevHaver/kabbalahindia.com](https://github.com/DevHaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (2 weeks ago)
 
 
