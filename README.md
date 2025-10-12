@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (6 days ago)
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (1 week ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (2 weeks ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (2 weeks ago)
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (2 weeks ago)
