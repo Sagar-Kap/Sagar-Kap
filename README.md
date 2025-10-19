@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (1 day ago)
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (2 days ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (3 weeks ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (3 weeks ago)
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (3 weeks ago)
-- [DevHaver/kabbalahindia.com](https://github.com/DevHaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (4 weeks ago)
+- [DevHaver/kabbalahindia.com](https://github.com/DevHaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (1 month ago)
 
 
 #### 📜 My recent blog posts
