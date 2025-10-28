@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (today)
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (1 day ago)
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (1 month ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 month ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 month ago)
@@ -11,7 +11,7 @@
 
 #### 📜 My recent blog posts
 
-- [Running Ubuntu Headless on Pi4 from USB](https://www.sagarkapoor.eu/raspberry-pi4-headless-ubuntu-from-usb/) (3 years ago)
+- [Running Ubuntu Headless on Pi4 from USB](https://www.sagarkapoor.eu/raspberry-pi4-headless-ubuntu-from-usb/) (4 years ago)
 - [Getting Started With Git](https://www.sagarkapoor.eu/getting-started-with-git/) (4 years ago)
 - [How to Scrape a site with Python](https://www.sagarkapoor.eu/how-to-scrape-with-python/) (4 years ago)
 - [Hello there!](https://www.sagarkapoor.eu/about/) (a long while ago)
