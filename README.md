@@ -6,7 +6,7 @@
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (1 month ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 month ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 month ago)
-- [DevHaver/kabbalahindia.com](https://github.com/DevHaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (1 month ago)
+- [DevHaver/kabbalahindia.com](https://github.com/DevHaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (2 months ago)
 
 
 #### 📜 My recent blog posts
