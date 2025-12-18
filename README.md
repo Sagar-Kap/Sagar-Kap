@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/theindianlaw.in](https://github.com/Sagar-Kap/theindianlaw.in) - The Indian Law site. (today)
-- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (2 days ago)
+- [Sagar-Kap/theindianlaw.in](https://github.com/Sagar-Kap/theindianlaw.in) - The Indian Law site. (1 day ago)
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (3 days ago)
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (2 months ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (2 months ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (2 months ago)
