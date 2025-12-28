@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (2 days ago)
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (today)
 - [Sagar-Kap/theindianlaw.in](https://github.com/Sagar-Kap/theindianlaw.in) - The Indian Law site. (1 week ago)
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (3 months ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (3 months ago)
