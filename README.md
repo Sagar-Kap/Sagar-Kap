@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (today)
+- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (today)
+- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (today)
 - [Specolution/obstaclesEverywhere](https://github.com/Specolution/obstaclesEverywhere) - A game where you go through some obstacles (1 week ago)
 - [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (3 weeks ago)
-- [Sagar-Kap/dockerised-wordpress](https://github.com/Sagar-Kap/dockerised-wordpress) - Dockerised WordPress solution (1 month ago)
-- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (4 months ago)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (4 months ago)
 
 
 #### 📜 My recent blog posts
