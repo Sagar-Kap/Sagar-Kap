@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (today)
-- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (today)
-- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (today)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 day ago)
+- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (1 day ago)
+- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 day ago)
 - [Specolution/obstaclesEverywhere](https://github.com/Specolution/obstaclesEverywhere) - A game where you go through some obstacles (1 week ago)
 - [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (3 weeks ago)
 
