@@ -6,7 +6,7 @@
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (1 week ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 week ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 week ago)
-- [Specolution/obstaclesEverywhere](https://github.com/Specolution/obstaclesEverywhere) - A game where you go through some obstacles (2 weeks ago)
+- [Specolution/obstaclesEverywhere](https://github.com/Specolution/obstaclesEverywhere) - A game where you go through some obstacles (3 weeks ago)
 
 
 #### 📜 My recent blog posts
