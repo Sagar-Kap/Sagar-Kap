@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Specolution/obstaclesEverywhere](https://github.com/Specolution/obstaclesEverywhere) - A game where you go through some obstacles (1 day ago)
+- [Specolution/obstaclesEverywhere](https://github.com/Specolution/obstaclesEverywhere) - A game where you go through some obstacles (2 days ago)
 - [Sagar-Kap/dotfiles](https://github.com/Sagar-Kap/dotfiles) - Shell env setup  (3 weeks ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (3 weeks ago)
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (3 weeks ago)
