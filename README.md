@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Specolution/obstaclesEverywhere](https://github.com/Specolution/obstaclesEverywhere) - A game where you go through some obstacles (today)
-- [Sagar-Kap/dotfiles](https://github.com/Sagar-Kap/dotfiles) - Shell env setup  (3 weeks ago)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (4 weeks ago)
-- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (4 weeks ago)
-- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (4 weeks ago)
+- [Specolution/obstaclesEverywhere](https://github.com/Specolution/obstaclesEverywhere) - A game where you go through some obstacles (1 day ago)
+- [Sagar-Kap/dotfiles](https://github.com/Sagar-Kap/dotfiles) - Shell env setup  (4 weeks ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 month ago)
+- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 month ago)
+- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (1 month ago)
 
 
 #### 📜 My recent blog posts
