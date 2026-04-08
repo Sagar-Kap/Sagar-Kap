@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (1 day ago)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (2 days ago)
 - [Specolution/obstaclesEverywhere](https://github.com/Specolution/obstaclesEverywhere) - A game where you go through some obstacles (1 week ago)
-- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (1 week ago)
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (2 weeks ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (2 weeks ago)
 - [Sagar-Kap/dotfiles](https://github.com/Sagar-Kap/dotfiles) - Shell env setup  (1 month ago)
 
