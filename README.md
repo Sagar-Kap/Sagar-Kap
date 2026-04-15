@@ -4,7 +4,7 @@
 
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (1 week ago)
 - [Specolution/obstaclesEverywhere](https://github.com/Specolution/obstaclesEverywhere) - A game where you go through some obstacles (2 weeks ago)
-- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (2 weeks ago)
+- [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (3 weeks ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (3 weeks ago)
 - [Sagar-Kap/dotfiles](https://github.com/Sagar-Kap/dotfiles) - Shell env setup  (2 months ago)
 
