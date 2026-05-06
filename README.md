@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (2 days ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (3 days ago)
 - [Sagar-Kap/dotfiles](https://github.com/Sagar-Kap/dotfiles) - Shell env setup  (1 week ago)
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (4 weeks ago)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (1 month ago)
 - [Specolution/obstaclesEverywhere](https://github.com/Specolution/obstaclesEverywhere) - A game where you go through some obstacles (1 month ago)
 - [Specolution/makeguns](https://github.com/Specolution/makeguns) - Make guns and do gun rampage. (1 month ago)
 
