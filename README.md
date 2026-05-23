@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) -  (today)
 - [weburz/particle-canvas](https://github.com/weburz/particle-canvas) - Zero-dependency animated particle canvas for Nuxt 4. Drop-in &lt;ParticleCanvas /&gt;  component — ~10KB minified / ~3KB gzipped, TypeScript-first. (today)
 - [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (today)
+- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) -  (today)
 - [weburz/crisp](https://github.com/weburz/crisp) - A linter for Git commit messages (2 weeks ago)
 - [sagar-kap/dotfiles](https://github.com/sagar-kap/dotfiles) - Shell env setup  (1 month ago)
 
