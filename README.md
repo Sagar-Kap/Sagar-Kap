@@ -5,8 +5,8 @@
 - [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (today)
 - [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (1 day ago)
 - [weburz/scoop-bucket](https://github.com/weburz/scoop-bucket) - Scoop bucket for Weburz CLIs (2 days ago)
-- [weburz/particle-canvas](https://github.com/weburz/particle-canvas) - Zero-dependency animated particle canvas for Nuxt 4. Drop-in &lt;ParticleCanvas /&gt;  component — ~10KB minified / ~3KB gzipped, TypeScript-first. (3 days ago)
 - [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (3 days ago)
+- [weburz/particle-canvas](https://github.com/weburz/particle-canvas) - Zero-dependency animated particle canvas for Nuxt 4. Drop-in &lt;ParticleCanvas /&gt;  component — ~10KB minified / ~3KB gzipped, TypeScript-first. (3 days ago)
 
 
 #### 📜 My recent blog posts
