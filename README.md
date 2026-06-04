@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 day ago)
-- [weburz/particle-canvas](https://github.com/weburz/particle-canvas) - Zero-dependency animated particle canvas for Nuxt 4. Drop-in &lt;ParticleCanvas /&gt;  component — ~10KB minified / ~3KB gzipped, TypeScript-first. (1 day ago)
+- [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (today)
+- [jarmos-san/rivu](https://github.com/jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (today)
+- [weburz/terox-templates](https://github.com/weburz/terox-templates) - Templates monorepo for Terox (today)
 - [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (1 day ago)
-- [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (1 week ago)
-- [weburz/scoop-bucket](https://github.com/weburz/scoop-bucket) - Scoop bucket for Weburz CLIs (1 week ago)
+- [weburz/particle-canvas](https://github.com/weburz/particle-canvas) - Zero-dependency animated particle canvas for Nuxt 4. Drop-in &lt;ParticleCanvas /&gt;  component — ~10KB minified / ~3KB gzipped, TypeScript-first. (1 day ago)
 
 
 #### 📜 My recent blog posts
