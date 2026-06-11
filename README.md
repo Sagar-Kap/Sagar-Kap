@@ -4,9 +4,9 @@
 
 - [weburz/carousel](https://github.com/weburz/carousel) - Drop-in carousels for Nuxt 4 that make YouTube, Instagram, and TikTok embeds behave. (today)
 - [weburz/particle-canvas](https://github.com/weburz/particle-canvas) - Zero-dependency animated particle canvas for Nuxt 4. Drop-in &lt;ParticleCanvas /&gt;  component — ~10KB minified / ~3KB gzipped, TypeScript-first. (1 day ago)
-- [weburz/terox-templates](https://github.com/weburz/terox-templates) - Templates monorepo for Terox (1 week ago)
 - [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 week ago)
 - [jarmos-san/rivu](https://github.com/jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (1 week ago)
+- [weburz/terox-templates](https://github.com/weburz/terox-templates) - Templates monorepo for Terox (1 week ago)
 
 
 #### 📜 My recent blog posts
