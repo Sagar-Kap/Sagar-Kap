@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (6 days ago)
+- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (1 week ago)
 - [weburz/particle-canvas](https://github.com/weburz/particle-canvas) - Zero-dependency animated particle canvas for Nuxt 4. Drop-in &lt;ParticleCanvas /&gt;  component — ~10KB minified / ~3KB gzipped, TypeScript-first. (1 week ago)
 - [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (1 week ago)
 - [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 week ago)
