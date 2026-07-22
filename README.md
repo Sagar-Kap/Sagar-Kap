@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (today)
-- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (2 weeks ago)
+- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (today)
 - [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (2 weeks ago)
 - [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (2 weeks ago)
 - [weburz/carousel](https://github.com/weburz/carousel) - Drop-in carousels for Nuxt 4 that make YouTube, Instagram, and TikTok embeds behave. (2 weeks ago)
