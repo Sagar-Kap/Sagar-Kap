@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (1 day ago)
-- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (2 days ago)
+- [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (2 days ago)
+- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (3 days ago)
 - [weburz/particle-canvas](https://github.com/weburz/particle-canvas) - Zero-dependency animated particle canvas for Nuxt 4. Drop-in &lt;ParticleCanvas /&gt;  component — ~10KB minified / ~3KB gzipped, TypeScript-first. (3 weeks ago)
 - [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (3 weeks ago)
 - [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (3 weeks ago)
