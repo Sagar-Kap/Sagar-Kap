@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) - A front end website for a photography shop. (today)
 - [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (3 days ago)
-- [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) - A front end website for a photography shop. (3 days ago)
 - [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (1 week ago)
 - [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (3 weeks ago)
 - [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (3 weeks ago)
