@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (today)
 - [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (1 day ago)
 - [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (3 days ago)
 - [weburz/carousel](https://github.com/weburz/carousel) - Drop-in carousels for Nuxt 4 that make YouTube, Instagram, and TikTok embeds behave. (3 days ago)
 - [weburz/particle-canvas](https://github.com/weburz/particle-canvas) - Zero-dependency animated particle canvas for Nuxt 4. Drop-in &lt;ParticleCanvas /&gt;  component — ~10KB minified / ~3KB gzipped, TypeScript-first. (3 days ago)
-- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (4 days ago)
 
 
 #### 📜 My recent blog posts
