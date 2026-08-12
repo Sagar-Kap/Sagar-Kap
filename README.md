@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (1 day ago)
-- [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (1 day ago)
+- [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (today)
+- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (today)
 - [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (2 days ago)
 - [weburz/carousel](https://github.com/weburz/carousel) - Drop-in carousels for Nuxt 4 that make YouTube, Instagram, and TikTok embeds behave. (5 days ago)
 - [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (5 days ago)
